@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Tiago Souza.
-- 🔭 Atualmente trabalho como Analista de Infraestrutura, mas estou migrando para a área de desenvolvimento.
+- 🔭 Atualmente trabalho como Analista de infraestrutura, porém sou apaixonado por desenvolvimento. Desenvolvo com as linguagens JavaScript, HTML e CSS.
 - 🌱 Estou aprendendo Html, Css e JavaScript.
 
 <div align="center">
