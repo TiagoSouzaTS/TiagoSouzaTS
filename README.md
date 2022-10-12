@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Tiago Souza.
-- 🔭 Atualmente trabalho como Analista de infraestrutura, porém sou apaixonado por desenvolvimento. Desenvolvo com as linguagens JavaScript, HTML e CSS.
-- 🌱 Estou aprendendo Html, Css e JavaScript.
+- 🔭 Atualmente trabalho como Analista de infraestrutura, porém sou apaixonado por desenvolvimento. Desenvolvo com as linguagens C#, JavaScript, HTML e CSS.
+- 🌱 Estou aprendendo C#, JavaScript, Html e Css.
 
 <div align="center">
   <a href="https://github.com/https://github.com/TiagoSouzaTS">
