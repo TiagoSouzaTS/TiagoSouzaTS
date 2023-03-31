@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Tiago Souza.
-- 🔭 Atualmente trabalho como Analista de infraestrutura, porém sou apaixonado por desenvolvimento. Desenvolvo com as linguagens C#, JavaScript, HTML e CSS.
+- 🔭 Atualmente trabalho como Analista de infraestrutura, porém sou um entusiasta por desenvolvimento. Atualmente a minha principal linguagem é o C#.
 - 🌱 Estou aprendendo C#, Sql, JavaScript, Html e Css.
 
 <div align="center">
